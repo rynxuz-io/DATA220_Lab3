@@ -1,0 +1,12 @@
+/outputs/
+.Rproj.user/
+analysis_run.log
+local_notes.txt
+.RData
+.Rhistory
+/cache/
+.DS_Store
+Thumbs.db
+*.env
+.Renviron
+*.log
